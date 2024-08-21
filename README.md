@@ -4,7 +4,7 @@ Hi there, I'm AYUSH KUMAR PREM 👋
 About Me
 I am a passionate developer and a college student pursuing a dual degree in BTech in Computer Science Engineering (CSE) and MBA. I love exploring new technologies, solving problems, and building projects that can make a difference.
 
-🔭 I’m currently working on MBPE(Monthly Budget Plan & expenditure).
+🔭 I’m currently working on --------.
 
 🌱 I’m currently learning java.
 
