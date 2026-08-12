@@ -85,15 +85,11 @@ A utility project focused on creating and preparing passport-size photographs.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
-<div align="center">
+You can find my latest repositories, commits, pull requests, and contribution activity directly on my GitHub profile.
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akp-1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akp-1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+**[View GitHub Profile →](https://github.com/Akp-1)**
 
 ---
 
